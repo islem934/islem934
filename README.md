@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Islem 👋
 
-<!--
-**islem934/islem934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Science student at **ISAMM – Manouba, Tunisia**
 
-Here are some ideas to get you started:
+💻 Interested in **Software Development, Artificial Intelligence, and New Technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and improving my skills in:
+
+* Git & GitHub
+* Python
+* Java
+* Web Development
+* SQL & Databases
+
+🚀 Currently looking for a **PFE internship for 2027** where I can learn, contribute, and gain experience through real-world projects.
+
+📚 Always learning and exploring new technologies.
+
+---
+
+### 🛠️ Skills
+
+* Python
+* Java
+* Web Development
+* SQL
+* Git & GitHub
+
+---
+
+### 📫 Contact
+
+📧 **[islemchatti99@gmail.com](mailto:islemchatti99@gmail.com)**
+
+💼 **LinkedIn:** [Islem Chatti](https://www.linkedin.com/)
+
+---
+
+⭐ More projects coming soon!
